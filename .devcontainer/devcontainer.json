@@ -15,7 +15,14 @@
       "settings": {},
       "extensions": [
         "ms-python.python",
-        "ms-python.vscode-pylance"
+        "ms-python.vscode-pylance",
+		"ms-python.black-formatter",
+		"ms-python.isort",
+		"mhutchie.git-graph",
+		"eamodio.gitlens",
+		"njpwerner.autodocstring",
+		"shardulm94.trailing-spaces",
+		"oderwat.indent-rainbow"
       ]
     }
   }
